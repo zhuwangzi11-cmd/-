@@ -1,0 +1,6 @@
+{
+  "name": "AI 智能求职投递助手",
+  "description": "专为求职者打造的 AI 简历匹配与自动润色工具。像HR一样智能匹配简历与岗位，一键生成契合的打招呼语与微调简历内容，助力精准投递。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
